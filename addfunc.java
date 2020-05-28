@@ -1,2 +1,2 @@
-int addthree (a,b,c) { return (a+b+c)}
+int addFoure (a,b,c,d){return (a+b+c+d)}
 int add (a,b) { return (a+b)}
